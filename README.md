@@ -1,4 +1,4 @@
 # Ide4ly-VN3License
-VN3 License for Ide4ly's Booth items
+This repository contains the VN3 license for Ide4ly assets.
 
 https://ide4ly.booth.pm/
